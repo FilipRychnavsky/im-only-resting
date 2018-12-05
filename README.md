@@ -1,5 +1,5 @@
-FR: 
-	* Ior als StartUp Projekt einstellen
+Filip´s comments
+  * Easy request management
 
 [User Guide](../../wiki/UserGuide) | [Downloads](http://www.swensensoftware.com/im-only-resting) | [Release Notes](../../wiki/ReleaseNotes) | [Issues](../../issues)
 
