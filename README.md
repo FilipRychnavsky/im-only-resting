@@ -1,5 +1,5 @@
 Filip´s comments
-  * Easy request management
+  * Ior als startup projekt
 
 [User Guide](../../wiki/UserGuide) | [Downloads](http://www.swensensoftware.com/im-only-resting) | [Release Notes](../../wiki/ReleaseNotes) | [Issues](../../issues)
 
